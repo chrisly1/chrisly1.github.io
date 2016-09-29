@@ -1,0 +1,164 @@
+body{
+	font-family: "Lato",sans-serif; color:grey;
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	overflow-x:hidden;
+	display:inline;
+}
+#nav1 {
+	position:fixed;
+	top:0;
+	width:110%;
+    list-style-type:none;
+    margin:0;
+    margin-left:-19px;
+    padding:0;
+    overflow:hidden;
+    background-color:#f3f3f3;
+    z-index: 9999
+}
+li {
+    float:left;
+}
+li a {
+    display:block;
+    color:#666;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+}
+li a:hover {
+	background-color:grey;
+}
+#info{
+	margin-left:325px;
+	margin-top:150px;
+}
+p{
+	width:400px;
+	margin-left:200px;
+	text-align:center;
+}
+#pic{
+	margin-top:170px;
+	margin-bottom:20px;
+	margin-left:190px;
+	background-repeat: no-repeat;
+    background-position: 40%;
+    border-radius:100%;
+    width: 300px;
+    height: 300px;
+}
+#homepic{
+	margin-top:-120px;
+	width:100%;
+	height:100%;
+}
+#pic2{
+	position:static;
+	margin-top:200px;
+	width:100%;
+	height:650px;
+}
+#logo{
+	position: absolute; 
+   top: 270px; 
+   left:270px; 
+   width: 100%; 
+   color: White; 
+   font:Lato, Sans-Serif; 
+   letter-spacing:20px;
+   animation: fadeandscale 1.5s ease-in;
+}
+@keyframes fadeandscale{
+	from{
+		opacity: 0;
+	}
+	to{
+		opacity:1;
+	}
+}
+#motto{
+	position: absolute; 
+   top: 330px; 
+   left:420px; 
+   width: 100%; 
+   color: White; 
+   font:Lato, Sans-Serif; 
+   letter-spacing:16px;
+   opacity:0;
+   animation: fadeandscales 3.0s forwards;
+   animation-delay: 2.0s;
+}
+@keyframes fadeandscales{
+	from{
+		opacity: 0;
+	}
+	to{
+		opacity:1;
+	}
+}
+#logo2{
+	text-align:center;
+	position:absolute;
+	top:1600px;
+   width: 100%;
+   color: white; 
+   font:Lato, Sans-Serif; 
+   letter-spacing:20px;
+
+}
+#work{
+	margin-top:70px;
+}
+#workinfo{
+	text-align:center;
+	margin-bottom:10px;
+}
+#photolist{
+	margin-left:auto;
+	margin-right:auto;
+	border-spacing:30px;
+}
+#pic3{
+	position:static;
+	margin-top:100px;
+	margin-bottom:-5px;
+	width:100%;
+	height:700px;
+}
+#contact{
+	position:absolute;
+	margin-left:507px;
+	top:3050px;
+   width: 100%;
+   color:#424242; 
+   font:Lato, Sans-Serif; 
+   letter-spacing:20px;
+}
+#contactinfo{
+	width:400px;
+	margin-left:200px;
+	text-align:center;
+}
+#icon1{
+	text-align:center;
+	position:absolute;
+	top:3150px;
+	margin-left:460px;
+}
+#icon2{
+	text-align:center;
+	position:absolute;
+	top:3150px;
+	margin-left:600px;
+	border-radius:100%;
+}
+#icon3{
+	text-align:center;
+	position:absolute;
+	top:3150px;
+	margin-left:740px;
+}
