@@ -111,6 +111,7 @@ p{
 }
 #work{
 	margin-top:70px;
+	
 }
 #workinfo{
 	text-align:center;
@@ -162,7 +163,7 @@ p{
 	margin-left:740px;
 }
 #pagewrap{
-	width:2000px;
+	width:5000px;
 	margin:0 auto;
 	position:absolute;
 }
