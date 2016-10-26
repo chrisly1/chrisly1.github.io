@@ -5,7 +5,6 @@ body{
 	margin:0;
 	padding:0;
 	overflow-x:hidden;
-	display:inline;
 }
 #nav1 {
 	position:fixed;
@@ -163,7 +162,7 @@ p{
 	margin-left:740px;
 }
 #pagewrap{
-	width:1270px;
+	width:2000px;
 	margin:0 auto;
 	position:absolute;
 }
