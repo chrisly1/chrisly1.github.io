@@ -161,3 +161,8 @@ p{
 	top:3150px;
 	margin-left:740px;
 }
+#pagewrap{
+	width:1270px;
+	margin:0 auto;
+	position:absolute;
+}
