@@ -5,7 +5,6 @@ body{
 	margin:0;
 	padding:0;
 	overflow-x:hidden;
-	display:inline;
 }
 #nav1 {
 	position:fixed;
