@@ -7,7 +7,7 @@ body{
 	overflow-x:hidden;
 }
 #nav1 {
-	position:fixed;
+	position:absolute;
 	top:0;
 	width:110%;
     list-style-type:none;
@@ -64,7 +64,7 @@ p{
 #logo{
 	position: absolute; 
    top: 270px; 
-   left:270px; 
+   left:170px; 
    width: 100%; 
    color: White; 
    font:Lato, Sans-Serif; 
