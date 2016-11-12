@@ -63,12 +63,12 @@ p{
 }
 #logo{
    top: 270px; 
+   left:270px; 
    width: 100%; 
    color: White; 
    font:Lato, Sans-Serif; 
    letter-spacing:20px;
    animation: fadeandscale 1.5s ease-in;
-   text-align: center;
 }
 @keyframes fadeandscale{
 	from{
@@ -80,6 +80,7 @@ p{
 }
 #motto{
    top: 330px; 
+   left:420px; 
    width: 100%; 
    color: White; 
    font:Lato, Sans-Serif; 
@@ -87,7 +88,6 @@ p{
    opacity:0;
    animation: fadeandscales 3.0s forwards;
    animation-delay: 2.0s;
-   text-align: center;
 }
 @keyframes fadeandscales{
 	from{
@@ -130,8 +130,8 @@ p{
 	top:3050px;
 	width: 100%;
 	color:#424242; 
-	font:Lato, Sans-Serif; 
-	letter-spacing:20px;
+   font:Lato, Sans-Serif; 
+   letter-spacing:20px;
 }
 #contactinfo{
 	width:400px;
@@ -142,20 +142,17 @@ p{
 	text-align:center;
 	top:3150px;
 	margin-left:460px;
-	position: static;
 }
 #icon2{
 	text-align:center;
 	top:3150px;
 	margin-left:600px;
 	border-radius:100%;
-	position: static;
 }
 #icon3{
 	text-align:center;
 	top:3150px;
 	margin-left:740px;
-	position: static;
 }
 #page-wrap{
 	width:1270px;
