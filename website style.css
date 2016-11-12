@@ -64,8 +64,8 @@ p{
 #logo{
 	position: absolute; 
 	text-align: center;
-   top: 270px; 
-   width: 100%; 
+   top: 270px;
+   margin-left: 270px;
    color: White; 
    font:Lato, Sans-Serif; 
    letter-spacing:20px;
