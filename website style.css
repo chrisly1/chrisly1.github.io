@@ -88,6 +88,7 @@ p{
    opacity:0;
    animation: fadeandscales 3.0s forwards;
    animation-delay: 2.0s;
+   text-align: center;
 }
 @keyframes fadeandscales{
 	from{
