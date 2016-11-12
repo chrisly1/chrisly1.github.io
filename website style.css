@@ -63,6 +63,7 @@ p{
 }
 #logo{
 	position: absolute; 
+	text-align: center;
    top: 270px; 
    width: 100%; 
    color: White; 
@@ -80,6 +81,7 @@ p{
 }
 #motto{
 	position: absolute; 
+	text-align: center;
    top: 330px; 
    width: 100%; 
    color: White; 
