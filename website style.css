@@ -142,17 +142,20 @@ p{
 	text-align:center;
 	top:3150px;
 	margin-left:460px;
+	position: static;
 }
 #icon2{
 	text-align:center;
 	top:3150px;
 	margin-left:600px;
 	border-radius:100%;
+	position: static;
 }
 #icon3{
 	text-align:center;
 	top:3150px;
 	margin-left:740px;
+	position: static;
 }
 #page-wrap{
 	width:1270px;
