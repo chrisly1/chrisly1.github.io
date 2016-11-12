@@ -63,12 +63,12 @@ p{
 }
 #logo{
    top: 270px; 
-   left:270px; 
    width: 100%; 
    color: White; 
    font:Lato, Sans-Serif; 
    letter-spacing:20px;
    animation: fadeandscale 1.5s ease-in;
+   text-align: center;
 }
 @keyframes fadeandscale{
 	from{
@@ -80,7 +80,6 @@ p{
 }
 #motto{
    top: 330px; 
-   left:420px; 
    width: 100%; 
    color: White; 
    font:Lato, Sans-Serif; 
